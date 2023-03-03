@@ -1,0 +1,28 @@
+Website
+1. Manage
+2. Add Roles and Features
+3. Web Server IIS & next
+4. .NET Framework next (Might mess things up)
+5. Enable FTP just in case (Might mess things up)
+6. Install
+
+add a folder named "pilliac" to C:\inetpub\wwwroot\myname
+
+Go to IIS (Under Dashboard)
+Right click the server and go to IIS Manager
+Expand the module under Start page
+Select yes 
+Right click sites and Add website
+site name write pilliac
+Physical path specify a directory
+Click ok
+Click Default Web Site and Stop it
+Start pilliac
+
+Enable DNS Manager
+Add new zone www.pilliac.com
+Allow unsecure stuff
+Add host name www.pilliac.com
+
+File Sharing Services
+SMB Share Quick

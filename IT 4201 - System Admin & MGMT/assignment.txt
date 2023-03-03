@@ -1,0 +1,27 @@
+Assignment 
+
+Using the OSI Mode;l, illustrate how the data was sent to the receiver and how the sender received the response.
+
+-------- DONE -------------------
+
+- Company
+> Marketing - 5 staff
+> Accounting - 5 staff
+> Finance - 5 staff
+> Human Resources - 5 staff
+> Administration/Management - 5 staff
+> Maintenance - 5 staff
+
+this is the organization of each department
+
+Assume that each staff can log into the client
+
+In your active directory, create an organizational unit. Each organizational unit contains each department
+5 staff/users
+
+
+Next assignment will be the scale of the technological center
+> technology
+> software
+> peopleware
+> network/hardware
